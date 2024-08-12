@@ -1,0 +1,4 @@
+Manufacturer Model Model_Year Condition Price Quantity
+Toyota Corolla 1985 Heavy_Wear 5.0 1
+Mitsubishi Lancer_Evolution 2000 Like_New 4.0 2
+Mazda RX-7 1990 Slight_wear 6.0 1
